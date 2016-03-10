@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="hlv_ht">100dp</dimen>
+    <dimen name="vp_ht">180dp</dimen>
+
+    <dimen name="tv_size">20sp</dimen>
+    <dimen name="tv_size_item">30sp</dimen>
+
+    <dimen name="tv_size_lv">40sp</dimen>
+    <dimen name="five">5dp</dimen>
+
+</resources>
